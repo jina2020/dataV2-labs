@@ -14,16 +14,6 @@ Resolving Git conflicts and merging branches is an import skill every software/d
 
 If you have any doubts about the prerequisites please clarify with your instructor or teaching assistants.
 
-### Overview of Steps
-
-Below is a summary of the steps you will follow in this lab:
-
-1. Commit changes on local branch and sync with remote.
-1. Create a conflict with the master branch.
-1. Resolve the conflict.
-1. Merge your branch.
-1. Push to remote.
-
 **Note: The above is also the general procedure with which you submit assignments in this course. You are not likely to encounter conflicts in this course because only you will be working on your own Git repo. But in your future professional work you'll find yourself using these steps a lot.**
 
 ### Deliverables
