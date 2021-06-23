@@ -1,0 +1,19 @@
+https://www.iflscience.com/brain/artificial-intelligence-recreates-images-from-inside-the-human-brain/
+
+
+* If it is so important as the title says (is it really a big step?) or you think it is more important than the title let's suggests.
+Can be important and can be a big step if perfectioned.
+* Which part of ML or AI is used and how is it related to ML or AI.
+An artificial intelligence, named Deep Neural Network (DNN) (fr. réseau de neurones profonds ) using fundtional Magnetic Resonance Imaging (fMRI) (fr. résonance magnétique fonctionnelle (IRMf))
+* What did they do to take the data.
+The researchers used three subjects and they were shown images of things
+* Which data did they use.
+The signals recorded by the fMRI scanner
+* How did they do to build the model. Which type of model is?
+Different algorithms for each person. DNN.
+* Do you know any other project that applies the same techniques? Could you use something for another use case?
+For dreams (ils pensent utile pour analyser l’état psychique d’individus, comprendre des maladies psychologiques ou encore commander des machines par la pensée.)
+* Do you find any ethical implications? Collateral effects?
+If the person agrees, I don't find any ethical implications.
+* Do you know any news related?
+No.
